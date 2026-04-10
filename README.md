@@ -63,7 +63,8 @@ The dataset contains transactional data of Diwali sales, including:
 ### 🛍️ Product Analysis
 - Top categories generate maximum revenue
 - Top 10 products contribute to a large portion of total sales
-
+## 🖼️ Plots Preview
+![Plots](Sales Plots.png)
 ---
 
 ## 📈 Key Insights
